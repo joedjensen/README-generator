@@ -1,4 +1,5 @@
 # README Generator
+## Description
 This repository contains a script which generates a professional looking README based on user input.
 
 This repository utilizes
@@ -6,6 +7,8 @@ This repository utilizes
 * Node
 * npm
 * Inquirer
+
+[Video](https://drive.google.com/file/d/1IkTtB1dD3KIncF4bfXRS2Wtg6q1l8Nce/view)
 
 ## Installation 
 
