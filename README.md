@@ -25,7 +25,7 @@ node index.js
 And respond to the prompts! Then go checkout your `GENERATEDREADME.MD`
 
 ## Code Snippets
-The most interesting code in this repo is around how we handle the options for the licenses. First we create License object to contain links to the badge for the license and to the license itself
+The most interesting code in this repo is around how we handle the options for the licenses, and their associated badges. First we create License object to contain links to the badge for the license and to the license itself
 ```Javascript
 function License(badge, link) {
   this.badge = badge
