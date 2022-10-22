@@ -61,7 +61,7 @@ function init() {
     inquirer
         .prompt(questions)
         .then(data => {
-            writeToFile("tempReadMe.md", utils.generateMarkdown(data))
+            writeToFile("GENERATEDREADME.MD", utils.generateMarkdown(data))
         })
 }
 
